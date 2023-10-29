@@ -203,4 +203,4 @@ for state in states:
     # Display the line plot
     plt.show()
 
-    print("From the above data,we can see that the Unemployment rate is very high in the month April-May and low in June-july")
+ print("From the above data, We can conclude that the Unemployment rate is very high in the month April-May and low in June-July")
